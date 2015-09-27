@@ -1,0 +1,27 @@
+{
+  "id": 2,
+  "name": "Transport",
+  "adverts": [
+    {
+      "id": 2,
+      "title": "test advert 2",
+      "text": "test text 2",
+      "price": 20,
+      "categoryId": 2
+    },
+    {
+      "id": 3,
+      "title": "test advert 3",
+      "text": "test text 3",
+      "price": 30,
+      "categoryId": 2
+    },
+    {
+      "id": 4,
+      "title": "test advert 4",
+      "text": "test text 4",
+      "price": 40,
+      "categoryId": 2
+    }
+  ]
+}

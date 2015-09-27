@@ -1,0 +1,39 @@
+.page-header {
+    margin-top: 0;
+}
+
+.category-list {
+    width: 300px;
+}
+
+.add-advert-message {
+    display: none;
+}
+
+textarea.add-advert-text-input {
+    height: 34px;
+}
+
+.home > div {
+    margin: 10px 0 0 0;
+}
+
+.home > div:first-child {
+    margin-top: 0;
+}
+
+.home > div:last-child {
+    margin-bottom: 0;
+}
+
+.add-new table td, .add-new table th {
+    padding: 2px 8px 2px 0;
+}
+
+.add-advert-message {
+    margin-top: 5px;
+}
+
+.search-results {
+    display: none;
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Job and business",
+    "numOfAdverts": 5
+  },
+  {
+    "id": 2,
+    "name": "Transport",
+    "numOfAdverts": 7
+  },
+  {
+    "id": 3,
+    "name": "Real estate",
+    "numOfAdverts": 12
+  },
+  {
+    "id": 4,
+    "name": "Construction",
+    "numOfAdverts": 3
+  },
+  {
+    "id": 5,
+    "name": "Electronics",
+    "numOfAdverts": 6
+  },
+  {
+    "id": 6,
+    "name": "Clothes",
+    "numOfAdverts": 9
+  },
+  {
+    "id": 7,
+    "name": "For children",
+    "numOfAdverts": 1
+  },
+  {
+    "id": 8,
+    "name": "Animals",
+    "numOfAdverts": 7
+  },
+  {
+    "id": 9,
+    "name": "Entertainment",
+    "numOfAdverts": 4
+  },
+  {
+    "id": 10,
+    "name": "Agriculture",
+    "numOfAdverts": 2
+  }
+]

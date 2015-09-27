@@ -1,0 +1,21 @@
+<form class="add-advert form-inline">
+    <table>
+        <tr>
+            <th>Category</th>
+            <th>Title</th>
+            <th>Text</th>
+            <th>Price</th>
+            <th>&nbsp;</th>
+        </tr>
+        <tr>
+            <td><select class="add-advert-category-input form-control"></select></td>
+            <td><input type="text" class="add-advert-title-input form-control" required/></td>
+            <td><textarea class="add-advert-text-input form-control" required></textarea></td>
+            <td><input type="number" class="add-advert-price-input form-control" required/></td>
+            <td><button type="submit" class="add-advert-submit btn btn-primary">Add</button></td>
+        </tr>
+    </table>
+    <div class="add-advert-message alert alert-success">
+        Advert successfully added. View it by following this <a class="alert-link" href="/#category/{{categoryId}}/advert/{{id}}">link</a>.
+    </div>
+</form>
